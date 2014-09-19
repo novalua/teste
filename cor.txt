@@ -1,1 +1,2 @@
 Arquivo para escolher a cor.
+Foi escolhida a cor Verde.
